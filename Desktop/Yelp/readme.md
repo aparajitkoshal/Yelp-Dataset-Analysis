@@ -1,0 +1,1 @@
+In this project I wrote extensive queries to extract useful information regarding the businesses reviewed on Yelp website. The analysis extends toward the fact that whether a review which was useful also categorized as funny or not. Nested queries were written to find out the important relationships like does having more reviews also suggests more number of fans.
